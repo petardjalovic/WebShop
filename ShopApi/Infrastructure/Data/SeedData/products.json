@@ -1,0 +1,11 @@
+[
+  {
+    "id": 24,
+    "name": "telefon",
+    "description": "lep",
+    "price": 1.0,
+    "pictureUrl": "images/products/sb-ang1.jpg",
+    "productTypeId": 1,
+    "productBrandId": 1
+  }
+]

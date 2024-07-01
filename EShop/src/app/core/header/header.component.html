@@ -1,0 +1,48 @@
+<nav class="  navbar navbar-expand-lg navbar-light bg-light">
+    <h5> <a class="my-0 ms-md-auto font-weight-normal" routerLink="/">Company name</a></h5>
+    <nav class="my-2 my-md-0 me-md-3">
+      <a class="btn btn-outline-secondary me-2 " routerLink="/admin" routerLinkActive="active">admin</a>
+      <a class="btn btn-outline-secondary me-2 " [routerLink]="['/']">Home</a>
+      <a class="btn btn-outline-secondary me-2 " routerLink="/shop" routerLinkActive="active">Shop</a>
+      <a class="btn btn-outline-secondary me-2 " routerLink="/test-error">Test-error</a>
+      <a class="btn btn-outline-secondary me-2 ">Contact</a>
+    </nav>
+    <div class="d-flex align-items-center">
+      <a routerLink="/basket" class="position-relative">
+        <button type="button" class="btn btn-outline-secondary">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-cart"
+            viewBox="0 0 16 16">
+            <path
+              d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM3.102 4l1.313 7h8.17l1.313-7H3.102zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z">
+            </path>
+          </svg></button>
+        <div *ngIf="(basket$|async)as basket" class="cart-no">{{basket.items.length}}</div>
+      </a>
+    </div>
+  
+    <div class="position-absolute top-0 end-0 me-1 ms-3 align-items-center  " *ngIf="(currentuser$|async)===null">
+      <a routerLink="/account/login" class="btn btn-outline-secondary ">Login</a>
+      <a routerLink="/account/register" class="btn btn-outline-secondary  me-2">Sign up</a>
+    </div>
+    <div class="position-absolute top-0 end-0 me-1 ms-3 align-items-center" *ngIf="currentuser$|async">
+      <div class="dropdown ms-3 me-5" dropdown>
+        <a class="dropdown-toggle" style="cursor:pointer ;color:black" dropdownToggle> welcome
+          {{(currentuser$|async).displayName}}</a>
+        <a>
+          <div class="dropdown-menu dropdown-menu-righr" *dropdownMenu>
+            <a routerLink="/basket" class="dropdown-item d-flex align-items-center ">
+              <i class=" fa fa-solid fa-cart-shopping"></i>View Basket
+            </a>
+            <a routerLink="/orders" class="dropdown-item d-flex align-items-center ">
+              <i class="fa fa-history me-3"></i>View Orders
+            </a>
+            <div class="dropdown-divider"></div>
+            <a (click)="logout()" class="dropdown-item d-flex align-items-center ">
+              <i class="fa fa-sign-out me-3"></i>Log Out
+            </a>
+          </div>
+        </a>
+      </div>
+    </div>
+    
+  </nav>

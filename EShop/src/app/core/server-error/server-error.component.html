@@ -1,0 +1,17 @@
+<div class="container-fluid">
+    <h4>Internal Server error - refreshing page will make error disapere</h4>
+    <ng-container *ngIf="error">
+        <h5 class="text-danger">Error : {{error.message}}</h5>
+        <p class="font-weight-bold"> Api Server Error </p>
+
+        <h1>
+            resolve : open dev tools ,
+            inspect network
+            chek failing request,
+            examin url
+            reproduce i postman
+            if same in postman error is defintly in .net
+        </h1>
+        {{error.details}}
+    </ng-container>
+</div>

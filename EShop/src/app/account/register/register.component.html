@@ -1,0 +1,56 @@
+
+<div class="container d-flex justify-content-center mt-5">
+
+    <body class="text-center col-3">
+        <main class="form-signin w-60 m-auto container">
+            <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+                <h1 class="h3 mb-3 fw-normal">Please Register</h1>
+
+                <div class="form-floating">
+                    <input formControlName="displayName" type="email" class="form-control"
+                        placeholder="name@example.com">
+                    <label for="floatingInput">Display Name</label>
+                    <span class="text-danger"
+                        *ngIf="!registerForm.get('displayName')?.errors?.required && (registerForm.get('displayName')?.errors?.pattern)">Display
+                        Name is not valid </span>
+                    <span class="text-danger"
+                        *ngIf="registerForm.get('displayName')?.invalid && (registerForm.get('displayName')?.dirty || registerForm.get('displayName')?.touched) && registerForm.get('displayName')?.errors?.required">Please
+                        enter name</span>
+                </div>
+                <div class="form-floating">
+                    <input formControlName="email" type="email" class="form-control" id="floatingInput"
+                        placeholder="name@example.com">
+                    <label for="floatingInput">Email address</label>
+                    <span class="text-danger"
+                        *ngIf="!registerForm.get('email')?.errors?.required && (registerForm.get('email')?.errors?.pattern)">Email
+                        is not valid </span>
+                    <span class="text-danger"
+                        *ngIf="registerForm.get('email')?.invalid && (registerForm.get('email')?.dirty || registerForm.get('email')?.touched) && registerForm.get('email')?.errors?.required">Please
+                        enter Email</span>
+                </div>
+                <div class="form-floating">
+                    <input type="password" formControlName="password" class="form-control" id="floatingPassword"
+                        placeholder="Password">
+                    <label for="floatingPassword">Password</label>
+                    <span class="text-danger"
+                        *ngIf="registerForm.get('password')?.invalid && (registerForm.get('password')?.dirty || registerForm.get('password')?.touched) && registerForm.get('password')?.errors?.required">Password
+                        is not valid </span>
+                    <span class="text-danger" *ngIf="!registerForm.get('password')?.errors?.required">Password length
+                        must be greater than or equal to 8 and password must contain one or more uppercase , lowercase ,
+                        numeric and special characters</span>
+                </div>
+                <ul class="text-danger" *ngIf="errors">
+                    <li *ngFor=" let error of errors">{{error}}</li>
+                </ul>
+
+                <button [disabled]="!registerForm.valid" class="w-100 btn btn-lg btn-primary"
+                    type="submit">Register</button>
+
+            </form>
+        </main>
+    </body>
+    <div>
+
+
+    </div>
+</div>

@@ -1,0 +1,21 @@
+<div class="bg-lite px 4 py-3 text-uppercas font-weight-bold">
+    Order Sumary
+    <div class="p-4">
+        <p class="font-italic mb-4">
+            Shipping cost will be added depending choice on checkout
+        </p>
+        <ul class="list-unstyled mb-4" *ngIf="(basketTotal$|async)"></ul>
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">subtotal</strong>
+            <strong>{{(basketTotal$|async).subtotal |currency}}</strong>
+        </li>
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Shipping Cost</strong>
+            <strong>{{(basketTotal$|async).shipping|currency}}</strong>
+        </li>
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Total</strong>
+            <strong>{{(basketTotal$|async).total|currency}}</strong>
+        </li>
+    </div>
+</div>

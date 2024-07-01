@@ -1,0 +1,35 @@
+<div class="container d-flex align-items-center mt-5">
+
+    <form [formGroup]="productForm" (ngSubmit)="onSubmit()">
+      <div class="form-group">
+        <input type="text" class="form-control" formControlName="name"  placeholder="{{product.name}}">
+        <label for="exampleFormControlInput1">Price</label>
+        <input type="number" class="form-control" formControlName="price"  placeholder="{{product.price}}" >
+        <label for="exampleFormControlInput1">PictureUrl</label>
+  
+        <input type="text" class="form-control" formControlName="pictureUrl" 
+          placeholder="{{product.pictureUrl}}">
+  
+        <label for="exampleFormControlSelect1">Brand</label>
+        <select  class="form-control" formControlName="productBrandId" [(ngModel)]="product.productBrandId" >
+          <option *ngFor="let brand of brands"
+                  [selected]="product.productBrandId === brand.id"
+                  [ngValue]="brand.id">{{brand.name}}</option>
+        </select>
+  
+        <div class="form-group col-md-6">
+          <label for="type">Type</label>
+          <select  class="form-control" formControlName="productTypeId" [(ngModel)]="product.productTypeId"  required>
+            <option *ngFor="let type of types"
+                    [selected]="product.productTypeId === type.id"
+                    [ngValue]="type.id">{{type.name}}</option>
+          </select>
+        </div>
+  
+  
+        <label for="exampleFormControlTextarea1">Description</label>
+        <textarea class="form-control" formControlName="description" placeholder="{{product.description}}" rows="3"></textarea>
+  
+        <button class="btn btn-primary" type="submit">Save</button>
+      </div>
+    </form>

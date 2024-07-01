@@ -1,0 +1,42 @@
+<div class="container d-flex justify-content-center mt-5">
+
+    <body class="text-center col-3">
+        <main class="form-signin w-60 m-auto container">
+            <form [formGroup]="loginform" (ngSubmit)="onSubmit()">
+                <h1 class="h3 mb-3 fw-normal">Please sign in</h1>
+
+                <div class="form-floating">
+                    <input formControlName="email" type="email" class="form-control" id="floatingInput"
+                        placeholder="name@example.com">
+                    <label for="floatingInput">Email address</label>
+                    <span class="text-danger"
+                        *ngIf="!loginform.get('email')?.errors?.required && (loginform.get('email')?.errors?.pattern)">Email
+                        is not valid </span>
+                    <span class="text-danger"
+                        *ngIf="loginform.get('email')?.invalid && (loginform.get('email')?.dirty || loginform.get('email')?.touched) && loginform.get('email')?.errors?.required">Please
+                        enter Email</span>
+                </div>
+                <div class="form-floating">
+                    <input type="password" formControlName="password" class="form-control" id="floatingPassword"
+                        placeholder="Password">
+                    <label for="floatingPassword">Password</label>
+                    <span class="text-danger"
+                        *ngIf="loginform.get('password')?.invalid && (loginform.get('password')?.dirty || loginform.get('password')?.touched) && loginform.get('password')?.errors?.required">Password
+                        is not valid </span>
+                    <span class="text-danger"
+                        *ngIf="!loginform.get('password')?.errors?.required && loginform.get('password')?.errors?.pattern">Password
+                        length must be greater than or equal to 8 and password must contain one or more uppercase ,
+                        lowercase , numeric and special characters</span>
+                </div>
+
+                <button [disabled]="!loginform.valid" class="w-100 btn btn-lg btn-primary" type="submit">Sign
+                    in</button>
+
+            </form>
+        </main>
+    </body>
+    <div>
+
+
+    </div>
+</div>

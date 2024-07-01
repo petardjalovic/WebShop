@@ -1,0 +1,33 @@
+.btn{
+    width: 30% ;
+}
+
+.image :hover{
+opacity: 1;
+
+}
+.image.btn{
+    transform: none;
+    opacity: 1;
+}
+.hover-overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left:0;
+    background-color: rgba(255,255,255,0.5);
+    opacity: 0;
+    transition: all 0.5s;
+    
+}
+.btn.hover-overlay{
+    z-index: 1000;
+    transition: all;
+}
+.btn.hover-overlay:first-of-type{
+    transform: translateX(-20px);
+}
+.btn.hover-overlay:last-of-type{
+    transform: translateX(+20px);
+}
