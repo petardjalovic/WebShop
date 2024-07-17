@@ -1,105 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\core\\specifications\\productwithfiltersforcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\productwithfiltersforcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\extensions\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\extensions\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\core\\interfaces\\igenericrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\core\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1D88829-3733-4403-B642-FE0509BAA6F1}|Solution Items{D1D88829-3733-4403-B642-FE0509BAA6F1}|C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{D1D88829-3733-4403-B642-FE0509BAA6F1}|Solution Items{D1D88829-3733-4403-B642-FE0509BAA6F1}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\core\\entities\\orderagregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\entities\\orderagregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\controllers\\orderscontorler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\orderscontorler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\orderscontorler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\data\\config\\orderconfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\config\\orderconfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\core\\entities\\orderagregate\\orderadres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\data\\storecotextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\storecotextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\entities\\orderagregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\entities\\orderagregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\dtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\dtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\specifications\\orderswithitemsorderingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\orderswithitemsorderingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\entities\\orderagregate\\orderadres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\entities\\orderagregate\\orderadres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\specifications\\productswithtypesandbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\productswithtypesandbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\skinet-prodavnica\\shopapi\\infrastructure\\migrations\\20240408180500_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\data\\config\\orderconfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\config\\orderconfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\ibasketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\fallbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\fallbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\extensions\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\extensions\\applicationservicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\specifications\\productwithfiltersforcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\productwithfiltersforcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\interfaces\\igenericrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\igenericrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1D88829-3733-4403-B642-FE0509BAA6F1}|Solution Items{D1D88829-3733-4403-B642-FE0509BAA6F1}|C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D1D88829-3733-4403-B642-FE0509BAA6F1}|Solution Items{D1D88829-3733-4403-B642-FE0509BAA6F1}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\buggycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\migrations\\20240408180500_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240408180500_mig22.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,149 +134,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 3,
               "Title": "OrderDto.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Dtos\\OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Dtos\\OrderDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\OrderDto.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Dtos\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Dtos\\OrderDto.cs",
               "RelativeToolTip": "API\\Dtos\\OrderDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T15:38:14.589Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductWithFiltersForCountSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "RelativeDocumentMoniker": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "RelativeToolTip": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:52:16.708Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:51:05.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SpecificationEvaluator.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\SpecificationEvaluator.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SpecificationEvaluator.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\SpecificationEvaluator.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\SpecificationEvaluator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:50:55.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBUAAACJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:49:13.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\UnitOfWork.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:47:38.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\GenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:47:12.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\BasketRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BasketRepository.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Repository\\BasketRepository.cs",
-              "RelativeToolTip": "Infrastructure\\Repository\\BasketRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:47:02.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:56:39.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUnitofWork.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IUnitofWork.cs",
-              "RelativeDocumentMoniker": "Core\\interfaces\\IUnitofWork.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IUnitofWork.cs",
-              "RelativeToolTip": "Core\\interfaces\\IUnitofWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:46:43.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IGenericRpository.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IGenericRpository.cs",
-              "RelativeDocumentMoniker": "Core\\interfaces\\IGenericRpository.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IGenericRpository.cs",
-              "RelativeToolTip": "Core\\interfaces\\IGenericRpository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:46:19.903Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -261,76 +156,135 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\Order.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\Order.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:39:56.504Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "OrderAdres.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:41:52.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Services\\OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Services\\OrderService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T14:49:50.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BasketController.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\BasketController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\BasketController.cs",
-              "RelativeToolTip": "API\\Controllers\\BasketController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T16:52:23.963Z",
+              "WhenOpened": "2024-07-16T13:20:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersWithItemsorderingSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:18:30.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdertoReturnDto.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Dtos\\OrdertoReturnDto.cs",
+              "RelativeDocumentMoniker": "API\\Dtos\\OrdertoReturnDto.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Dtos\\OrdertoReturnDto.cs",
+              "RelativeToolTip": "API\\Dtos\\OrdertoReturnDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:04:36.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Helpers\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "API\\Helpers\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Helpers\\MappingProfiles.cs",
+              "RelativeToolTip": "API\\Helpers\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:59:12.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IBasketRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IBasketRepository.cs",
-              "RelativeDocumentMoniker": "Core\\interfaces\\IBasketRepository.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IBasketRepository.cs",
-              "RelativeToolTip": "Core\\interfaces\\IBasketRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "StoreCotextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Data\\StoreCotextSeed.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreCotextSeed.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Data\\StoreCotextSeed.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\StoreCotextSeed.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:46:09.984Z",
+              "WhenOpened": "2024-07-02T14:02:53.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersContorler.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\OrdersContorler.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\OrdersContorler.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\OrdersContorler.cs",
+              "RelativeToolTip": "API\\Controllers\\OrdersContorler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T15:36:44.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicationServicesExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Extensions\\ApplicationServicesExtensions.cs",
-              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServicesExtensions.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Extensions\\ApplicationServicesExtensions.cs",
-              "RelativeToolTip": "API\\Extensions\\ApplicationServicesExtensions.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Core\\interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Core\\interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:56:50.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T15:58:31.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-05-21T14:19:51.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\appsettings.json",
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -338,24 +292,215 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\Order.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
-              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\Order.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAgAAAA",
+              "DocumentIndex": 11,
+              "Title": "ProductsWithTypesAndBrands.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\ProductsWithTypesAndBrands.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductsWithTypesAndBrands.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\ProductsWithTypesAndBrands.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductsWithTypesAndBrands.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA0wB0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:39:56.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T13:21:56.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IBasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IBasketRepository.cs",
+              "RelativeDocumentMoniker": "Core\\interfaces\\IBasketRepository.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IBasketRepository.cs",
+              "RelativeToolTip": "Core\\interfaces\\IBasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:46:09.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderConfing.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Data\\Config\\OrderConfing.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\Config\\OrderConfing.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Data\\Config\\OrderConfing.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\Config\\OrderConfing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:58:42.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitofWork.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IUnitofWork.cs",
+              "RelativeDocumentMoniker": "Core\\interfaces\\IUnitofWork.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IUnitofWork.cs",
+              "RelativeToolTip": "Core\\interfaces\\IUnitofWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:46:43.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:47:12.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:56:39.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\BasketRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\BasketRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:47:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwBUAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:49:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FallbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\FallbackController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\FallbackController.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\FallbackController.cs",
+              "RelativeToolTip": "API\\Controllers\\FallbackController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:08:58.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\UnitOfWork.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:47:38.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SpecificationEvaluator.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\SpecificationEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:50:55.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationServicesExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Extensions\\ApplicationServicesExtensions.cs",
+              "RelativeDocumentMoniker": "API\\Extensions\\ApplicationServicesExtensions.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Extensions\\ApplicationServicesExtensions.cs",
+              "RelativeToolTip": "API\\Extensions\\ApplicationServicesExtensions.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:56:50.732Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:51:05.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductWithFiltersForCountSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\ProductWithFiltersForCountSpecification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:52:16.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGenericRpository.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IGenericRpository.cs",
+              "RelativeDocumentMoniker": "Core\\interfaces\\IGenericRpository.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IGenericRpository.cs",
+              "RelativeToolTip": "Core\\interfaces\\IGenericRpository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:46:19.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "API\\Controllers\\BasketController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:52:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAADAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-21T14:19:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "BuggyController.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\BuggyController.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\BuggyController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\BuggyController.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\BuggyController.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\BuggyController.cs",
               "RelativeToolTip": "API\\Controllers\\BuggyController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,79 +508,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Core\\interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Core\\interfaces\\IOrderService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T15:58:31.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrdersContorler.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\OrdersContorler.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\OrdersContorler.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Controllers\\OrdersContorler.cs",
-              "RelativeToolTip": "API\\Controllers\\OrdersContorler.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA0wCAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T15:36:44.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "20240408180500_mig22.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Migrations\\20240408180500_mig22.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Migrations\\20240408180500_mig22.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240408180500_mig22.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Migrations\\20240408180500_mig22.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Migrations\\20240408180500_mig22.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20240408180500_mig22.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T18:05:00.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "OrderConfing.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Data\\Config\\OrderConfing.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Data\\Config\\OrderConfing.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Infrastructure\\Data\\Config\\OrderConfing.cs",
-              "RelativeToolTip": "Infrastructure\\Data\\Config\\OrderConfing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:58:42.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "OrderAdres.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:41:52.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MappingProfiles.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Helpers\\MappingProfiles.cs",
-              "RelativeDocumentMoniker": "API\\Helpers\\MappingProfiles.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\skinet-prodavnica\\ShopApi\\API\\Helpers\\MappingProfiles.cs",
-              "RelativeToolTip": "API\\Helpers\\MappingProfiles.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBQAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:59:12.416Z"
             }
           ]
         }

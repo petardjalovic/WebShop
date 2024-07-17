@@ -2,13 +2,7 @@
 {
     public class Order : BaseEntity
     {
-        private OrderAdress shippingAddress;
-        private DeliveryMethod deliveryMethod;
-        private List<OrderItem> items;
-        private decimal subtototal;
-        private OrderAdress shippingAddress1;
-        private DeliveryMethod deliveryMethod1;
-        private List<OrderItem> items1;
+
 
         public Order()
         {

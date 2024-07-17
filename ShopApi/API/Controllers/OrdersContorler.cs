@@ -35,19 +35,19 @@ namespace API.Controllers
 
 
         [HttpGet]
-        public async Task<ActionResult<IReadOnlyList<OrderDto>>> getOrders()
+        public async Task<ActionResult<IReadOnlyList<OrdertoReturnDto>>> GetOrdersForUser()
         {
             var email = HttpContext.User.RetriveEmailFromPrincipal();
             var orders = await _orderService.GetOrdersforUserAsync(email);
-            return Ok(_mapper.Map<IReadOnlyList<Order>, IReadOnlyList<OrderDto>>(orders));
+            return Ok(_mapper.Map<IReadOnlyList<OrdertoReturnDto>>(orders));
         }
         [HttpGet("{id}")]
-        public async Task<ActionResult<OrdertoReturnDto>> GetOrdersbyIDAsync(int id)
+        public async Task<ActionResult<OrdertoReturnDto>> GetOrderByIdForUser(int id)
         {
             var email = HttpContext.User.RetriveEmailFromPrincipal();
             var order = await _orderService.GetOrdersbyIDAsync(id, email);
             if (order == null) return NotFound(new ApiResponse(404));
-            return _mapper.Map<Order, OrdertoReturnDto>(order);
+            return _mapper.Map<OrdertoReturnDto>(order);
         }
         [HttpGet("deliveryMethods")]
         public async Task<ActionResult<IReadOnlyList<DeliveryMethod>>> GetDeliveryMethods()

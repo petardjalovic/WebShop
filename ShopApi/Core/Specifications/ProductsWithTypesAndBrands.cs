@@ -22,7 +22,7 @@ namespace Core.Specifications
                         AddorderBY(p => p.Price);
                         break;
                     case "priceDesc":
-                        AddorderBYDescending(p => p.Price);
+                        AddOrderByDescending(p => p.Price);
                         break;
                     default:
                         AddorderBY(n => n.Name);

@@ -14,6 +14,7 @@ const routes: Routes = [
   { path: 'basket', loadChildren: () => import('./basket/basket.module').then(mod => mod.BasketModule), data: { label: 'Basket', info: { mydata: { icon: 'Basket', iconType: 'material' } } } },
   { path: 'checkout', loadChildren: () => import('./checkout/checkout.module').then(mod => mod.CheckoutModule), data: { label: 'checkout', info: { mydata: { icon: 'Ceckout', iconType: 'material' } } } },
   { path: 'account', loadChildren: () => import('./account/account.module').then(mod => mod.AccountModule), data: { breadcrumb: { skip: true } } },
+  { path: 'orders', loadChildren: () => import('./orders/orders.module').then(mod => mod.OrdersModule), data: { label: 'orders', info: { mydata: { icon: 'orders', iconType: 'material' } } } },
   { path: 'admin', loadChildren: () => import('./admin/admin.module').then(mod => mod.AdminModule), data: { breadcrumb: { skip: true } } },
   { path: '**', redirectTo: 'not-found', pathMatch: 'full' }
 

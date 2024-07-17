@@ -1,17 +1,18 @@
-﻿namespace API.Dtos
+﻿using Core.Entities.OrderAgregate;
+
+namespace API.Dtos
 {
     public class OrdertoReturnDto
     {
         public int Id { get; set; }
         public string BuyerEmail { get; set; }
         public DateTimeOffset OrderDate { get; set; }
-        public AddressDto ShipToAdress { get; set; }
+        public OrderAdress ShipToAddress { get; set; }
         public string DeliveryMethod { get; set; }
         public decimal ShippingPrice { get; set; }
-
         public IReadOnlyList<OrderItemDto> OrderItems { get; set; }
         public decimal Subtotal { get; set; }
-        public decimal Total { get; set; }
         public string Status { get; set; }
+        public decimal Total { get; set; }
     }
 }

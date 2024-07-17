@@ -7,6 +7,7 @@ using Infrastructure.Data;
 using Infrastructure.Data.identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 
 
 
