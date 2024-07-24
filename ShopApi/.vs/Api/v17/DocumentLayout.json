@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\specifications\\orderswithitemsorderingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\orderswithitemsorderingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\orderscontorler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\orderscontorler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\helpers\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\dtos\\ordertoreturndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\specifications\\orderswithitemsorderingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\orderswithitemsorderingspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -51,10 +59,6 @@
       "RelativeMoniker": "D:0:0:{82B1F213-73F2-422D-9D8A-D12285639B69}|Core\\Core.csproj|solutionrelative:core\\specifications\\productswithtypesandbrands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\infrastructure\\data\\config\\orderconfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D603244-167E-451D-AB9D-A5B1F08D27E0}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\config\\orderconfing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|solutionrelative:api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BE78A95-D59C-462A-AFB9-D97E67C2B91F}|API\\API.csproj|c:\\users\\petar\\desktop\\git\\prodavnica\\shopapi\\api\\controllers\\fallbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -134,11 +134,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Dtos\\OrderDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\OrderDto.cs",
@@ -147,8 +147,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T15:38:14.589Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -156,68 +155,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\Order.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
-              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\Order.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:39:56.504Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderAdres.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:41:52.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\OrderService.cs",
               "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Services\\OrderService.cs",
               "RelativeToolTip": "Infrastructure\\Services\\OrderService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowAcAAAAdAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwDYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-08T14:49:50.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BaseSpecification.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\BaseSpecification.cs",
-              "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\BaseSpecification.cs",
-              "RelativeToolTip": "Core\\Specifications\\BaseSpecification.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCcAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:20:21.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "OrdersWithItemsorderingSpecification.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
               "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
               "RelativeToolTip": "Core\\Specifications\\OrdersWithItemsorderingSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T13:18:30.172Z"
+              "WhenOpened": "2024-07-16T13:18:30.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "OrdertoReturnDto.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Dtos\\OrdertoReturnDto.cs",
               "RelativeDocumentMoniker": "API\\Dtos\\OrdertoReturnDto.cs",
@@ -229,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "MappingProfiles.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Helpers\\MappingProfiles.cs",
               "RelativeDocumentMoniker": "API\\Helpers\\MappingProfiles.cs",
@@ -237,12 +201,11 @@
               "RelativeToolTip": "API\\Helpers\\MappingProfiles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T17:59:12.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-08T17:59:12.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "StoreCotextSeed.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Data\\StoreCotextSeed.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\StoreCotextSeed.cs",
@@ -250,25 +213,84 @@
               "RelativeToolTip": "Infrastructure\\Data\\StoreCotextSeed.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwCQAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-02T14:02:53.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-02T14:02:53.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OrdersContorler.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\OrdersContorler.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\OrdersContorler.cs",
               "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\OrdersContorler.cs",
               "RelativeToolTip": "API\\Controllers\\OrdersContorler.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA0AAAAiAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-08T15:36:44.403Z",
+              "WhenOpened": "2024-04-08T15:36:44.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:49:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T17:19:29.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Core\\Specifications\\BaseSpecification.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\BaseSpecification.cs",
+              "RelativeToolTip": "Core\\Specifications\\BaseSpecification.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwCcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:20:21.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderAdres.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\OrderAdres.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:41:52.94Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\OrderAgregate\\Order.cs",
+              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Entities\\OrderAgregate\\Order.cs",
+              "RelativeToolTip": "Core\\Entities\\OrderAgregate\\Order.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T17:39:56.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "Core\\interfaces\\IOrderService.cs",
@@ -280,19 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\appsettings.json",
-              "RelativeDocumentMoniker": "API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\appsettings.json",
-              "RelativeToolTip": "API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-08T17:19:29.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProductsWithTypesAndBrands.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\Specifications\\ProductsWithTypesAndBrands.cs",
               "RelativeDocumentMoniker": "Core\\Specifications\\ProductsWithTypesAndBrands.cs",
@@ -304,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IBasketRepository.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Core\\interfaces\\IBasketRepository.cs",
               "RelativeDocumentMoniker": "Core\\interfaces\\IBasketRepository.cs",
@@ -316,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "OrderConfing.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Data\\Config\\OrderConfing.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Data\\Config\\OrderConfing.cs",
@@ -340,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\Infrastructure\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Repository\\GenericRepository.cs",
@@ -352,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Program.cs",
               "RelativeDocumentMoniker": "API\\Program.cs",
@@ -373,18 +383,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-21T14:47:02.334Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\Petar\\Desktop\\git\\Prodavnica\\ShopApi\\API\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "API\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAkwBUAAACJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T14:49:13.562Z"
             },
             {
               "$type": "Document",

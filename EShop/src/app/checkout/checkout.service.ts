@@ -14,4 +14,9 @@ export class CheckoutService {
   createOrder (order : any){
 return this.http.post(this.baseUrl + 'OrdersContorler', order);
   }
+
+  getdelivery(){
+    return this.http.get<any>(this.baseUrl + 'OrdersContorler/deliveryMethods' );
+  }
+
 }
